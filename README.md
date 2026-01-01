@@ -1,0 +1,4 @@
+# JitsiRecorder
+Built this because Jibri and I stopped being friends.
+
+After spending an unreasonable amount of time fighting Jibri, reading logs that felt like ancient runes, restarting containers for emotional support, and questioning every life decision that led me here, I finally accepted the truth: Jibri was never going to work the way I needed it to. So instead of debugging one more mysterious Chrome/XMPP/Prosody-related issue at 3 AM, I did the only sane thing left — I built my own recorder. This project is powered by spite, caffeine, and the firm belief that if something refuses to cooperate long enough, it deserves to be replaced entirely. It may not be pretty, it may not be orthodox, but it records Jitsi meetings reliably, without gaslighting me, and honestly… that’s all I ever wanted.
